@@ -1,5 +1,11 @@
 # 新冠疫情相似句对判定大赛 top6方案
-ZJU小飞机队
+**比赛链接：**
+
+*https://tianchi.aliyun.com/competition/entrance/231776/introduction*
+
+**Team：**
+
+ZJU小飞机
 
 ## 赛题分析
 
