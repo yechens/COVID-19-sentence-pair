@@ -7,7 +7,7 @@
 
 ZJU小飞机
 
-**公众号「NLP情报局」原文：**
+**公众号「Giant Xu」原文：**
 
 [天池NLP赛道top指南](https://mp.weixin.qq.com/s/YMbRORpR5qUYv5nAJ7qJEw) **(干货多多，欢迎关注哦)**
 
